@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Split</string>
+    <string name="label_bill_total_tax">Bill Total with Tax:</string>
+    <string name="label_tip_percent">Tip Percent:</string>
+    <string name="label_radio_12">12%</string>
+    <string name="label_radio_15">15%</string>
+    <string name="label_radio_18">18%</string>
+    <string name="label_radio_20">20%</string>
+    <string name="label_tip_amount">Tip Amount:</string>
+    <string name="label_total_with_tip">Total with Tip:</string>
+    <string name="label_number_people">Number of People:</string>
+    <string name="label_go_button">Go</string>
+    <string name="label_total_per_person">Total per Person:</string>
+    <string name="label_overage">Overage:</string>
+    <string name="label_clear_button">Clear</string>
+</resources>
